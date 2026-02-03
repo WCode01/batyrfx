@@ -1,6 +1,6 @@
 /* Основные стили */
 body {
-  background-image: url('/image/wall.JPG'); 
+  background-image: url('../image/wall.jpg.JPG'); 
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
